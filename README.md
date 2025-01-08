@@ -4,7 +4,7 @@
 
 This project is perfect for anyone looking to learn about weather forecasting using machine learning, data preprocessing, and visualization. Whether you're a beginner or an intermediate data science enthusiast, you’ll find this project a great learning tool.
 
-![Weather Prediction]([https://link-to-image.com/weather-prediction.jpg](https://img.freepik.com/free-vector/weather-concept-illustration_114360-1254.jpg?t=st=1736331044~exp=1736334644~hmac=de6b7596706403a26df3cf4ed2f5d84804e293ce092a83dfe5589dc3d6aae088&w=740)) <!-- Replace with actual image -->
+![Weather Prediction](https://img.freepik.com/free-vector/weather-concept-illustration_114360-1254.jpg?t=st=1736331044~exp=1736334644~hmac=de6b7596706403a26df3cf4ed2f5d84804e293ce092a83dfe5589dc3d6aae088&w=740) <!-- Replace with actual image -->
 
 ---
 
